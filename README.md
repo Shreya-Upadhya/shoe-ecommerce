@@ -26,15 +26,10 @@ JavaScript - Interactive functionality and cart management
 localStorage - Cart data persistence
 
 📷 Screenshots
-🏃‍♂️ Getting Started
 
-![Homepage](https://github.com/user-attachments/assets/9dfcc6ba-4c2e-49d1-9de8-a62d44f875e3)
 
-![Product Page](https://github.com/user-attachments/assets/96ef6007-44c8-4343-a348-4e6d8452699a)
-
-![Cart Page (Under Development)](https://github.com/user-attachments/assets/dcd3f034-495d-4c78-8b9a-5ba2fcd0a2b2)
-
-![Screenshot 2024-08-14 215027](https://github.com/user-attachments/assets/36822464-9a3e-4716-8e12-b29b05bfb13a)
+<img width="1901" height="888" alt="Screenshot 2025-09-18 161546" src="https://github.com/user-a<img width="1888" height="892" alt="Screenshot 2025-09-18 161652" src="https://github.com/user-attachments/assets/ab796dd9-fe6f-422b-a5b3-5f0ef1d884c3" />
+ttachments/assets/dc34db7b-e06e-49d6-b9c4-010da0d06046" />
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/0f384a95-71a9-40f0-b2c4-dfd1aa2d5e36)
 
