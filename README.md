@@ -55,16 +55,6 @@ This project is a fully functional e-commerce website specializing in sneakers, 
 - Accessibility best practices
 - SEO-friendly markup
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Modern web browser (Chrome 60+, Firefox 55+, Safari 12+, Edge 79+)
-- No server installation required - runs entirely client-side
-
-### Installation
-
-1. **Clone the repository:**
-
 
 📷 Screenshots
 
