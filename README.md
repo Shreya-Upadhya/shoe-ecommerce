@@ -56,7 +56,7 @@ This project is a fully functional e-commerce website specializing in sneakers, 
 - SEO-friendly markup
 
 
-📷 Screenshots
+## 📷 Screenshots
 
 <img width="1881" height="890" alt="Screenshot 2025-09-18 162459" src="https://github.com/user-attachments/assets/c553fedc-78fe-4f0d-b6be-5b6ad4c351fe" />
 
