@@ -1,4 +1,4 @@
-# Shoe-Ecommerce
+[# Shoe-Ecommerce
 
 A responsive e-commerce sneakers website built with HTML5, CSS3, and vanilla JavaScript featuring an interactive shopping cart and comprehensive checkout system.
 
@@ -21,7 +21,7 @@ CSS3 - Styling, animations, and responsive design
 
 JavaScript - Interactive functionality and cart management
 
-localStorage - Cart data persistence
+localStorage - Cart data persistence](https://github.com/Shreya-Upadhya/shoe-ecommerce)
 
 📷 Screenshots
 
