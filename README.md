@@ -7,22 +7,6 @@ A modern, responsive e-commerce website for sneakers built with vanilla HTML5, C
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Key Functionalities](#key-functionalities)
-- [Screenshots](#screenshots)
-- [Browser Compatibility](#browser-compatibility)
-- [Performance](#performance)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 This project is a fully functional e-commerce website specializing in sneakers, built entirely with vanilla web technologies. It demonstrates modern web development practices including responsive design, interactive user interfaces, and local data persistence [attached_file:1].
