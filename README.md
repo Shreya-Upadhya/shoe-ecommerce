@@ -9,7 +9,7 @@ A modern, responsive e-commerce website for sneakers built with vanilla HTML5, C
 
 ## 🎯 Overview
 
-This project is a fully functional e-commerce website specializing in sneakers, built entirely with vanilla web technologies. It demonstrates modern web development practices including responsive design, interactive user interfaces, and local data persistence [attached_file:1].
+This project is a fully functional e-commerce website specializing in sneakers, built entirely with vanilla web technologies. It demonstrates modern web development practices including responsive design, interactive user interfaces, and local data persistence.
 
 **Key Highlights:**
 - 100% responsive across all device sizes
@@ -21,32 +21,32 @@ This project is a fully functional e-commerce website specializing in sneakers, 
 ## ✨ Features
 
 ### 🎨 Product Experience
-- **Interactive Product Slider** - Browse through 5 different sneaker models with smooth transitions [attached_file:1]
+- **Interactive Product Slider** - Browse through 5 different sneaker models with smooth transitions
 - **Detailed Product Views** - High-quality images with product specifications
 - **Responsive Design** - Optimized viewing experience on desktop, tablet, and mobile devices
 - **Smooth Animations** - CSS transitions and JavaScript animations for enhanced UX
 
 ### 🛍️ Shopping Cart
-- **Dynamic Cart Management** - Add, remove, and update quantities in real-time [attached_file:1]
-- **LocalStorage Persistence** - Cart contents saved between browser sessions [attached_file:1]
-- **Real-time Updates** - Instant price calculations and item count updates [attached_file:1]
+- **Dynamic Cart Management** - Add, remove, and update quantities in real-time 
+- **LocalStorage Persistence** - Cart contents saved between browser sessions 
+- **Real-time Updates** - Instant price calculations and item count updates
 - **Visual Feedback** - Smooth animations when adding/removing items
 
 ### 💳 Checkout System
-- **Complete Checkout Flow** - Multi-step process from cart to payment [attached_file:1]
-- **Multiple Payment Options** - Support for various payment methods [attached_file:1]
+- **Complete Checkout Flow** - Multi-step process from cart to payment 
+- **Multiple Payment Options** - Support for various payment methods 
 - **Form Validation** - Client-side validation for all user inputs
 - **Order Summary** - Comprehensive review before purchase completion
 
 ## 🛠️ Technologies Used
 
 **Frontend Stack:**
-- **HTML5** (46.4%) - Semantic markup and structure [attached_file:1]
-- **CSS3** (40.7%) - Styling, animations, and responsive design [attached_file:1]
-- **Vanilla JavaScript** (12.9%) - Interactive functionality and cart management [attached_file:1]
+- **HTML5** (46.4%) - Semantic markup and structure
+- **CSS3** (40.7%) - Styling, animations, and responsive design 
+- **Vanilla JavaScript** (12.9%) - Interactive functionality and cart management 
 
 **Storage & Persistence:**
-- **localStorage API** - Shopping cart data persistence [attached_file:1]
+- **localStorage API** - Shopping cart data persistence 
 - **Session Management** - User preference storage
 
 **Design Principles:**
